@@ -1,0 +1,7 @@
+{
+  "name": "chat-nudge",
+  "version": "0.1.0",
+  "description": "Tells the Chat Nudge menu-bar app when a chat finishes, with a short brief, and runs the instructions you reply with.",
+  "author": { "name": "Enock Chisulo" },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,5 @@
+app/build/
+.DS_Store
+*.log
+.claude-plugin/types/
+mod/.claude-plugin/types/

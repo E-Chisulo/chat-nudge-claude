@@ -1,0 +1,6 @@
+{
+  "name": "chat-nudge",
+  "owner": { "name": "E-Chisulo" },
+  "metadata": { "description": "Menu bar notifications for finished chats, with replies and reminders." },
+  "plugins": [{ "name": "chat-nudge", "source": "./mod" }]
+}
